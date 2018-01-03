@@ -1,6 +1,6 @@
 # HEMCOUNT
 
-HEMCOUNT is a peripheral blood and bone marrow differential counter. It translates direct keyboard input into clipboard output to prevent transcription error.
+HEMCOUNT is an open source hematology differential counter. It translates direct keyboard input into clipboard output to prevent transcription error.
 
 ## Functions
 * Separate algorithms for bone marrow and peripheral blood differential count
