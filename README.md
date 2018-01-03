@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/HEMCOUNT_ICON.png)
+ ![alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/HEMCOUNT_ICON.png)
 
 *HEMCOUNT* is an open source hematology differential counter. It translates direct keyboard input into clipboard output to prevent transcription error.
 
@@ -18,7 +18,7 @@
 ### Method 1:
 1. Download installation package HEMCOUNT.zip
 2. Extract and then run HEMCOUNT installation program
-3. Shortcut HEMCOUNT will be available on desktop after installation
+3. Shortcut to HEMCOUNT will be available on desktop after installation
 
 ### Method 2:
 1. Download and run standalone executable HEMCOUNT.exe
