@@ -1,4 +1,4 @@
- ![alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/HEMCOUNT_ICON.png)
+![alt text][logo](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/HEMCOUNT_ICON.png)
 
 *HEMCOUNT* is an open source hematology differential counter. It translates direct keyboard input into clipboard output to prevent transcription error.
 
@@ -6,6 +6,7 @@
 * Separate algorithms for bone marrow and peripheral blood differential count
 * Customizable keyboard input
 * Direct output to clipboard for pasting in report
+* Audible keypress and 100 count alarm
 * Realtime Myeloid:Erythroid ratio and histogram
 * Option for Sentence or List differential count output
 * Integer round off function
