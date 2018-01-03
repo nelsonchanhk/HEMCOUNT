@@ -5,7 +5,7 @@
 ## Functions
 * Separate algorithms for bone marrow and peripheral blood differential count
 * Customizable keyboard input
-* Direct output to clipboard for pasting in report
+* Direct output to clipboard for pasting in reports
 * Audible keypress and 100 count alarm
 * Realtime Myeloid:Erythroid ratio and histogram
 * Option for Sentence or List differential count output
