@@ -7,16 +7,16 @@ Please visit our homepage for support, feedback and donation.
 Homepage: [http://www.hematology.cc](http://hematology.cc)
 
 ## Functions
---* Separate algorithms for bone marrow and peripheral blood differential count
---* Customizable keyboard input
---* Direct output to clipboard for pasting in report
---* Realtime Myeloid:Erythroid ratio and histogram
---* Option for Sentence or List differential count output
---* Integer round off function
---* Last press button and last reset indicators
+* Separate algorithms for bone marrow and peripheral blood differential count
+* Customizable keyboard input
+* Direct output to clipboard for pasting in report
+* Realtime Myeloid:Erythroid ratio and histogram
+* Option for Sentence or List differential count output
+* Integer round off function
+* Last press button and last reset indicators
 
 ## Compatible Operating Systems
---* Microsoft Windows (x86/64)
+* Microsoft Windows (x86/64)
 
 ## Installation
 ### Method 1:
