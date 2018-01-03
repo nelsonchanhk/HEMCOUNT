@@ -1,6 +1,6 @@
 # HEMCOUNT
 
-HEMCOUNT is a peripheral blood and bone marrow cell differential counter. It translates direct keyboard input into clipboard output in either sentence or list form and prevents transcription error.
+HEMCOUNT is a peripheral blood and bone marrow differential counter. It translates direct keyboard input into clipboard output in either sentence or list form and prevents transcription error.
 
 Please visit out homepage for support, feedback and donation.
 
