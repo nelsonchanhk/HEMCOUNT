@@ -2,10 +2,6 @@
 
 HEMCOUNT is a peripheral blood and bone marrow differential counter. It translates direct keyboard input into clipboard output to prevent transcription error.
 
-Please visit our homepage for support, feedback and donation.
-
-Homepage: [http://www.hematology.cc](http://hematology.cc)
-
 ## Functions
 * Separate algorithms for bone marrow and peripheral blood differential count
 * Customizable keyboard input
@@ -28,3 +24,6 @@ Homepage: [http://www.hematology.cc](http://hematology.cc)
 1. Download and run standalone executable HEMCOUNT.exe
 
 ###### You may be warned of installation from unknown publisher during the process by antivirus software or windows security.
+
+It is completely free to use and dsitribute HEMCOUNT but its development and maintenance are not free. Please visit our homepage for support, feedback and donation.
+Homepage: [http://www.hematology.cc](http://hematology.cc)
