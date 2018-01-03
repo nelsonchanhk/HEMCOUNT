@@ -1,4 +1,4 @@
-_!_[alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/HEMCOUNT_ICON.png)
+![alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/HEMCOUNT_ICON.png)
 
 **HEMCOUNT** is an open source hematology differential counter. While it is a free replacement for your traditional mechanical or electronic cell counter it also translates direct keyboard input into clipboard output to prevent transcription error.
 
