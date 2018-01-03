@@ -23,7 +23,7 @@ HEMCOUNT is a peripheral blood and bone marrow differential counter. It translat
 ### Method 2:
 1. Download and run standalone executable HEMCOUNT.exe
 
-###### You may be warned of installation from unknown publisher during the process by antivirus software or windows security.
+#### **You may be warned of installation from unknown publisher during the process by antivirus software or windows security.**
 
 It is completely free to use and dsitribute HEMCOUNT but its development and maintenance are not free. Please visit our homepage for support, feedback and donation.
 Homepage: [http://www.hematology.cc](http://hematology.cc)
