@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/HEMCOUNT_ICON.png)
+!_[alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/HEMCOUNT_ICON.png)
 
 **HEMCOUNT** is an open source hematology differential counter. While it is a free replacement for your traditional mechanical or electronic cell counter it also translates direct keyboard input into clipboard output to prevent transcription error.
 
@@ -24,7 +24,7 @@
 ### Method 2:
 1. Download and run standalone executable HEMCOUNT.exe
 
-#### **You may be warned of installation from unknown publisher during the installation process or at first execution by antivirus software or windows security. Some antiviruss software may even quarantine the program that will need to be released. This is a known issue for small scale software developers.**
+#### **You may be warned of installation from unknown publisher_ during the installation process or at first execution by _antivirus software or windows security_. Some antiviruss software may even quarantine the program that will need to be released. This is a known issue for small scale software developers.**
 
 It is completely free to use and distribute HEMCOUNT but its development and maintenance are not free. Please visit our homepage for support, feedback and donation.
 Homepage: [http://www.hematology.cc](http://www.hematology.cc)
