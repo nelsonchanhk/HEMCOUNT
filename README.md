@@ -1,2 +1,30 @@
 # HEMCOUNT
-HEMCOUNT is a compact and customizable blood cell counter
+
+HEMCOUNT is a peripheral blood and bone marrow cell differential counter. It translates direct keyboard input into clipboard output in either sentence or list form and prevents transcription error.
+
+Please visit out homepage for support, feedback and donation.
+
+Homepage: [http://www.haematology.cc](http://hematology.cc)
+
+## Functions
+--* Separate algorithms for bone marrow and peripheral blood differential count
+--* Customizable keyboard input
+--* Direct output to clipboard for pasting in report
+--* Realtime Myeloid:Erythroid ratio and histogram
+--* Option for Sentence or List differential count output
+--* Integer round off function
+--* Last press button and last reset indicators
+
+## Compatible Operating Systems
+--* Microsoft Windows (x86/64)
+
+## Installation
+### Method 1:
+1. Download installation package HEMCOUNT.zip
+2. Extract and then run HEMCOUNT installation program
+3. Shortcut HEMCOUNT will be available on desktop after installation
+
+### Method 2:
+1. Download and run standalone executable HEMCOUNT.exe
+
+###### You may be warned of installation from unknown publisher during the process by antivirus software or windows security.
