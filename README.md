@@ -10,9 +10,9 @@
 * Realtime Myeloid:Erythroid ratio and histogram
 * Option for Sentence or List differential count output
 * Integer round off function
-* Last press button and last reset indicators
+* Indicators for last pressed button and last reset time
 
-## Compatible Operating Systems
+# Compatible Operating Systems
 * Microsoft Windows (x86/64)
 
 ## Installation
