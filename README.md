@@ -2,7 +2,7 @@
 
 HEMCOUNT is a peripheral blood and bone marrow differential counter. It translates direct keyboard input into clipboard output to prevent transcription error.
 
-Please visit out homepage for support, feedback and donation.
+Please visit our homepage for support, feedback and donation.
 
 Homepage: [http://www.hematology.cc](http://hematology.cc)
 
