@@ -4,7 +4,7 @@ HEMCOUNT is a peripheral blood and bone marrow differential counter. It translat
 
 Please visit out homepage for support, feedback and donation.
 
-Homepage: [http://www.haematology.cc](http://hematology.cc)
+Homepage: [http://www.hematology.cc](http://hematology.cc)
 
 ## Functions
 --* Separate algorithms for bone marrow and peripheral blood differential count
