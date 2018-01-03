@@ -24,7 +24,7 @@
 ### Method 2:
 1. Download and run standalone executable HEMCOUNT.exe
 
-##### **You may be warned of installation from unknown publisher during the installation process or at first execution by antivirus software or windows security.**
+#### **You may be warned of installation from unknown publisher during the installation process or at first execution by antivirus software or windows security. Some antiviruss software may even quarantine the program that will need to be released. This is a known issue for small scale software developers.**
 
 It is completely free to use and distribute HEMCOUNT but its development and maintenance are not free. Please visit our homepage for support, feedback and donation.
 Homepage: [http://www.hematology.cc](http://www.hematology.cc)
