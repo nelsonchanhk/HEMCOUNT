@@ -26,4 +26,4 @@
 ##### **You may be warned of installation from unknown publisher during the installation process or at first execution by antivirus software or windows security.**
 
 It is completely free to use and dsitribute HEMCOUNT but its development and maintenance are not free. Please visit our homepage for support, feedback and donation.
-Homepage: [http://www.hematology.cc](http://hematology.cc)
+Homepage: [http://www.hematology.cc](http://www.hematology.cc)
