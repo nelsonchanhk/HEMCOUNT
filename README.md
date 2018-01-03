@@ -1,5 +1,7 @@
 # HEMCOUNT
 
+![alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/HEMCOUNT_ICON.png)
+
 HEMCOUNT is an open source hematology differential counter. It translates direct keyboard input into clipboard output to prevent transcription error.
 
 ## Functions
