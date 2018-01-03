@@ -12,6 +12,8 @@
 * Integer round off function
 * Indicators for last pressed button and last reset time
 
+![alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/mainscreencapture.png)
+
 # Compatible Operating Systems
 * Microsoft Windows (x86/64)
 
