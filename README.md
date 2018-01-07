@@ -30,7 +30,11 @@
 ### Method 2:
 1. Download and run the standalone executable HEMCOUNT.exe
 
+### Security warning
 You may be __**warned of installation from unknown publisher**__ (particularly with Method 2) during the installation process or at first execution by antivirus software or windows security. Some antiviruss software may even __**quarantine**__ the program that will need to be released. This is a __**known issue**__ for small scale software developers.
 
-It is completely free to use and distribute HEMCOUNT. Please visit our homepage for support and feedback.
-Homepage: [http://www.hematology.cc](http://www.hematology.cc)
+# License
+GNU GPLv3 License
+HEMCOUNT v1.0 Copyright 2018 Nelson CN Chan. This program comes with ABSOLUTELY NO WARRANTY; This is a free software, and you are welcome to redistribute it under certain conditions; refer to http://www.gnu.org/licenses/gpl.html for details.
+
+Please visit our homepage for support and feedback. http://ww.hematology.cc
