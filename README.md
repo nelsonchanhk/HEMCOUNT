@@ -18,15 +18,15 @@
 * Microsoft Windows (x86/64)
 
 ## Installation
-### Method 1: (Requires .NET framework v4.0)
+### Method 1 (Preferred method but adminstrator authority is required):
 1. Download installation package HEMCOUNT.zip
 2. Extract and then run HEMCOUNT installation program
 3. Shortcut to HEMCOUNT will be available on desktop after installation
 
 ### Method 2:
-1. Download and run standalone the executable HEMCOUNT.exe
+1. Download and run the standalone executable HEMCOUNT.exe
 
 You may be __**warned of installation from unknown publisher**__ (particularly with Method 2) during the installation process or at first execution by antivirus software or windows security. Some antiviruss software may even __**quarantine**__ the program that will need to be released. This is a __**known issue**__ for small scale software developers.
 
-It is completely free to use and distribute HEMCOUNT but its development and maintenance are not free. Please visit our homepage for support and feedback.
+It is completely free to use and distribute HEMCOUNT. Please visit our homepage for support and feedback.
 Homepage: [http://www.hematology.cc](http://www.hematology.cc)
