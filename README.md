@@ -22,12 +22,12 @@
 * Microsoft Windows (x86/64)
 
 ## Installation
-### Method 1 (Preferred method but adminstrator authority is required):
+### Method 1 (Preferred method):
 1. Download installation package HEMCOUNT.zip
 2. Extract and then run HEMCOUNT installation program
 3. Shortcut to HEMCOUNT will be available on desktop after installation
 
-### Method 2:
+### Method 2 (If Method 1 fails):
 1. Download and run the standalone executable HEMCOUNT.exe
 
 ### Security warning
