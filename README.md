@@ -18,6 +18,7 @@
 * HEMCOUNT.zip: Installation package
 * HEMCOUNT.exe: standalone executable file
 * README.md
+* LICENSE
 
 # Compatible Operating Systems
 * Microsoft Windows (x86/64)
