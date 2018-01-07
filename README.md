@@ -29,6 +29,7 @@
 
 ### Method 2 (If Method 1 fails):
 1. Download and run the standalone executable HEMCOUNT.exe
+* This method may incur security warning, which is safe to bypass.
 
 ### Security warning
 You may be __**warned of installation from unknown publisher**__ (particularly with Method 2) during the installation process or at first execution by antivirus software or windows security. Some antiviruss software may even __**quarantine**__ the program that will need to be released. This is a __**known issue**__ for small scale software developers.
