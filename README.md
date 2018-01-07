@@ -14,6 +14,10 @@
 
 ![alt text](https://raw.githubusercontent.com/nelsonchanhk/HEMCOUNT/master/mainscreencapture.PNG)
 
+# Files
+* HEMCOUNT.zip: Installation package
+* HEMCOUNT.exe: standalone executable file
+
 # Compatible Operating Systems
 * Microsoft Windows (x86/64)
 
