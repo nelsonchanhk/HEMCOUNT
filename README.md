@@ -40,4 +40,4 @@ You may be __**warned of installation from unknown publisher**__ (particularly w
 GNU GPLv3 License
 HEMCOUNT v1.0 Copyright 2018 Nelson CN Chan. This program comes with ABSOLUTELY NO WARRANTY; This is a free software, and you are welcome to redistribute it under certain conditions; refer to http://www.gnu.org/licenses/gpl.html for details.
 
-Please visit our homepage for support and feedback. http://ww.hematology.cc
+Please visit our homepage for support and feedback. http://www.hematology.cc
