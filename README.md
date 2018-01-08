@@ -34,7 +34,7 @@
 * This method may incur security warnings, which are safe to bypass.
 
 ### Security warning
-You may be __**warned of installation from unknown publisher**__ (particularly with Method 2) during the installation process or at first execution by antivirus software or windows security. Some antiviruss software may even __**quarantine**__ the program that will need to be released. This is a __**known issue**__ for small scale software developers.
+You may be __**warned of installation from unknown publisher**__ (particularly with Method 2) during the installation process or at first execution by antivirus software or windows security. Some antiviruss software may even __**quarantine**__ the program that will need to be released. This is a __**known false warning**__ for application developed by small scale software developers.
 
 # License
 GNU GPLv3 License
